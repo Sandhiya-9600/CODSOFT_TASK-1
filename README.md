@@ -1,30 +1,24 @@
-# CODSOFT UI/UX Internship
+Task 1 – Mobile App Signup Flow
 
-This repository contains the UI/UX design tasks completed as part of the CodSoft UI/UX Design Internship.
+Objective
+Design a user-friendly and visually appealing mobile application signup flow that provides a smooth onboarding experience for new users.
 
-## Tasks Completed
+Features
+Clean and modern interface
+User registration screens
+Login and Signup options
+Simple navigation
+Mobile-friendly design
 
-### Task 1 - Mobile App Signup Flow
+Design Tool
+Figma
 
-Design of a complete mobile application signup experience.
+Files Included
+Figma Design
+Screenshots/Prototype
 
-### Task 2 - Email Template
-
-Responsive and visually appealing email template design.
-
-### Task 4 - E-commerce Website
-
-Modern e-commerce website UI/UX design with user-friendly navigation.
-
-## Tools Used
-
-* Figma
-* GitHub
-
-## Author
-
+Author
 Sandhiya
 
-## Internship
-
+Internship
 CodSoft UI/UX Design Internship
