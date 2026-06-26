@@ -12,7 +12,7 @@ Login and Signup options
 Simple navigation
 Mobile-friendly design
 
-Design Tool
+Design Tool 
 
 Figma
 
